@@ -1,0 +1,1 @@
+No Content: https://preview.colorlib.com/theme/pato/vendor/src/js/lightbox.js
